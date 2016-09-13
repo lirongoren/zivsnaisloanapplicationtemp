@@ -1,0 +1,1 @@
+﻿var Key = { Copyright: "©2016 ZivSnaiSloanApplication Ltd.", Key: "VuTf663dNPhUVRbHUKRLrcn"};
